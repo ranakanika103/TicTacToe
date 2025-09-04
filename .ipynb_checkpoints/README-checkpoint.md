@@ -17,14 +17,20 @@ Welcome to Tic-Tac-Toe game built in Jupyter Notebook, demonstrating core progra
 
 ## 📁Project Structure
 
-'''text 
+
 TicTacToe/ 
 ├──tictactoe.ipyn        # main game implementation 
+
 ├── screenshots          # Game screenshots 
+
 |        |── img1.png    # Sample board screenshot 
+
 |        |── img2.png 
+
 |        |── img3.png 
+
 |        |── img4.png
+
 |── README.md            # Project documentation'''
 
 
