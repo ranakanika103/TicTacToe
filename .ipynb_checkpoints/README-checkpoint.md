@@ -22,7 +22,7 @@ TicTacToe/
 ├──tictactoe.ipyn               # main game implementation
 
 ├── screenshots/                   # Game screenshots
-      └── img1.png                # Sample board screenshot     
+      |── img1.png                # Sample board screenshot     
       └── img2.png     
       └── img3.png     
       └── img4.png
