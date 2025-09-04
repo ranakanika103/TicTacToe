@@ -17,29 +17,36 @@ Welcome to Tic-Tac-Toe game built in Jupyter Notebook, demonstrating core progra
 ## 📁Project Structure
 
 TicTacToe/
+
 ├──tictactoe.ipynb               # main game implementation
+
 ├── screenshots/                 # Game screenshots
+
         ├── img1.png         # Sample board screenshot
+        
         └── img2.png
+        
         └── img3.png
+        
         └── img4.png
+        
 ├── README.md                 # Project documentation
 
 
-## 🖼️Screenshots
+## 🖼️ScreenShots
 
 Below are some screenshots of the Tic-Tac-Toe game in action:
 
-![Initial empty Tic-Tac-Toe board](screenshots/img1.png)
+![Initial empty Tic-Tac-Toe board](ScreenShots/img1.png)
 Initial empty Tic-Tac-Toe board
 
-![choose a number](screenshots/img2.png)
+![choose a number](ScreenShots/img2.png)
 Choose a number
 
-![Game quit by player](screenshots/img3.png)
+![Game quit by player](ScreenShots/img3.png)
 Game quit by player
 
-![Three round game](screenshots/img4.png)
+![Three round game](ScreenShots/img4.png)
 Three round game
 
 
